@@ -1,12 +1,10 @@
-# CipherByte-Technologies
-Welcome to the Data Science Internship Assignments Repository! This repository contains all the assignments, resources, and guidelines for the Data Science Internship program of CipherByte Technologies. 
+# Irsi-Flower-Classification
+The Iris Flower Classification project is a common introductory project for data science and machine learning. It involves classifying iris flowers among three species based on the length and width of their sepals and petals. Here are some detailed steps and considerations for this project, which could be part of a data science internship:
 
-List of Assignments: <br>
-* Assignment 1: Iris Flower Classification <br>
-* Assignment 2: Unemployment Analysis with Python <br>
-* Assignment 3: Spam Mail Detection <br>
-
-Each assignment has its own folder containing the following files: <br>
-* README.md: Detailed description of the assignment, including objectives, tasks, and submission guidelines. <br>
-* data/: Folder containing any datasets required for the assignment. <br>
-* notebook.ipynb: Jupyter Notebook to work on the assignment. <br>
+**Overview:** <br>
+* Objective: Classify iris flowers into three species: Iris setosa, Iris versicolor, and Iris virginica. <br>
+* Dataset: Iris dataset, which contains 150 samples, with 50 samples for each species. Each sample has four features: <br>
+1. Sepal length <br>
+2. Sepal width <br>
+3. Petal length <br> 
+4. Petal width <br>
