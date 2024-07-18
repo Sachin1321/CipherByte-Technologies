@@ -1,4 +1,4 @@
-# Spam Email Detection
+# Spam-Email-Detection
 This is a Spam Email Detection project. Spam email detection is a classic project in data science and machine learning, involving the classification of emails into spam and non-spam (ham). This project provides valuable experience with text processing, feature engineering, and machine learning classification techniques. Here are the detailed steps and considerations for a spam email detection project in a data science internship:
 
 **Overview:** <br>
